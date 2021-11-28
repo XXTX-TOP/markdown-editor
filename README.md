@@ -9,6 +9,8 @@ download [releases](https://github.com/CrazyCxl/markdown-editor/releases)
 
 - Syntax highlighting
 - The chart support
+- 一个还不错的Markdown编辑器（如其名）
+- ctrl+S 是保存文件，开始找了好久都不知道如何保存
 
 # Reference
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
